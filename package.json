@@ -1,0 +1,26 @@
+{
+  "name": "crypto_arbitrage_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chirag423/crypto_arbitrage_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chirag423/crypto_arbitrage_bot/issues"
+  },
+  "homepage": "https://github.com/Chirag423/crypto_arbitrage_bot#readme",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "ws": "^8.17.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.10"
+  }
+}
